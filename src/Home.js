@@ -11,6 +11,10 @@ const Home = () => {
         Don't have an account?
         <Link to="/Signup"> Sign Up</Link>
       </p>
+      <p>
+        Sign out
+        <Link to="/Signout"> Sign Out</Link>
+      </p>
     </div>
   );
 };
